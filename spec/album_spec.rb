@@ -1,6 +1,7 @@
 require 'rspec'
 require 'album'
 require 'song'
+require 'artist'
 require 'pry'
 
 describe '#Album' do
